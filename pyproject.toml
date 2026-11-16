@@ -1,7 +1,7 @@
 [project]
 name = "camipatas-api"
 version = "0.1.0"
-description = "Add your description here"
+description = "API para gestionar clientes, perros y paseos de Camipatas "
 readme = "README.md"
 authors = [
     { name = "Ratech", email = "ramiroargimon@gmail.com" }
